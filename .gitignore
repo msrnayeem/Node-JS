@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+dist/
+build/
+
+# IDE files (e.g., VS Code, JetBrains)
+.vscode/
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# npm package lock file
+package-lock.json
+
+# Test coverage
+coverage/
+
+# Docker
+docker-compose.override.yml
